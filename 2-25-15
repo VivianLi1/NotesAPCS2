@@ -1,0 +1,12 @@
+2/25/1015 Merge
+
+2 piles
+
+worst case: n best: n/2
+log base 2 of n - merge sort
+
+if n = 1000
+n * logn < n * n
+
+n * n grows much faster
+sorts depend on data size
