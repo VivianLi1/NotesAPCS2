@@ -1,0 +1,32 @@
+linked list
+
+add( _____ )
+remove(int index)
+get(int index)
+set(int index, _____ )
+// flatten (if there are sublists)
+size()
+// reverse
+toString()
+// sort
+indexOf( ____ 
+
+node - point of interest 
+
+public class LNode{
+  private int value;
+  private LNode next;
+  
+  setValue
+  getValue
+  
+  setNext
+  getValue
+  
+  toString
+}
+
+x.setNext(y) - connects nodes
+y.setNext(y) - you spin me right round baby right round
+
+lots of add/removes/etc linklist doe snot havve to shift unlike arraylist (so faster)
