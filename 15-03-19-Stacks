@@ -1,0 +1,15 @@
+stacks
+
+push
+pop
+peek - like getLast
+
+LIFO - last in first out
+
+s = new Stack();
+s.push(5);
+s.push(-1);
+s.push(0); //adds to end
+
+print(pop()); //output: 0 and removes
+print(peek());
