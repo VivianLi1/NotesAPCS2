@@ -1,0 +1,10 @@
+A F 3 2 1 
+dequeue(); --> 1 //removes
+
+A F 3 2
+enqueue(7); //add to other end
+
+7 A F 3 2
+
+enqueue from tail - O(1)
+dequeue from head - O(1)
