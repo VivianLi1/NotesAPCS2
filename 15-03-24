@@ -1,0 +1,33 @@
+Stacks and Queues Array Implementation
+
+Add and remove are both constant time in stacks and queues
+linked list routine runtime (stays the same no matter what) 
+If done with an array, add/remove in stacks would have the same time, but queues would take longer
+stack have variable to keep track of size
+
+Stacks Add
+n * O(1) + O(N) /n ---> kO(n)/n 
+*amertized (averaged) cost is O(1)
+
+Queues Add
+O(1)* 
+remove
+O(1)
+
+counter for head and tail
+eq(1)
+eq(2)
+eq(3)
+dq()
+
+0 1 2 3 4
+H
+T
+
+0 1 2 3 4
+H T
+
+only resize when reaching end
+
+Double Ended Queue (DEQ)
+add and remove from either side in constant time - can use it as stack or queue
