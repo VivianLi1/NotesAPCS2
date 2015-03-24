@@ -29,5 +29,9 @@ H T
 
 only resize when reaching end
 
-Double Ended Queue (DEQ)
+Double Ended Queue (DEQ) - next assignment (10)
 add and remove from either side in constant time - can use it as stack or queue
+
+priority queue
+higher priority = goes first
+priority bumps up slowly - jobs do not wait forever
