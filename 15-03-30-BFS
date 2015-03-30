@@ -1,0 +1,28 @@
+Depth first search vs Breadth first search
+
+DFS
+- recursively backtracking
+- tests all possiblities in one path until it needs to backtrack
+
+BFS
+- tests all possiblities in order closes to farthest
+- ability to find closest
+
+1 2 3 4 5
+2 # # # 
+3 4 5 #
+4 #   #
+5     # E
+
+  0 1 2 3 4 c
+0 S
+1   # # #
+2       #
+3   #   #
+4       # E
+r
+
+(r,c)
+(0,0) (0,1) (1,0) (0,2) (2,0) (0,3) (2,1) (3,0) - keeps deleting old 
+dead end branch - add nothing
+attach previous terms as arrays on new odered pair
