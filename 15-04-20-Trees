@@ -1,0 +1,9 @@
+Terminolotree
+
+root
+parent/child
+  - nodes can have at most 1 parent
+  - nodes can have many children
+full vs. balance
+  - full - not capacity, filled up?
+  - balance - is tree lopsided?
