@@ -1,5 +1,5 @@
 Terminolotree
-root
+root (no parent), leaves (no children)
 parent/child
   - nodes can have at most 1 parent
   - nodes can have many children
@@ -17,4 +17,11 @@ Taxonatree
 - splay tree
 - red black tree
 - heap 
+
+implementation
+node - data, left, right (bianry)
+tree - node (only gets data)
+  - add(value)
+  - remove(value)
+  
 
