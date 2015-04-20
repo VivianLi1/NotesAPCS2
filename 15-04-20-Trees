@@ -1,9 +1,20 @@
 Terminolotree
-
 root
 parent/child
   - nodes can have at most 1 parent
   - nodes can have many children
 full vs. balance
-  - full - not capacity, filled up?
+  - full - not capacity, filled up? (full is always balanced)
   - balance - is tree lopsided?
+  
+Taxonatree
+(max # of children)
+- binary tree
+- ternary tree
+- quad tree
+
+- binary searc h tree
+- splay tree
+- red black tree
+- heap 
+
