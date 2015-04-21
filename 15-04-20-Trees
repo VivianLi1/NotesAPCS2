@@ -13,7 +13,7 @@ Taxonatree
 - ternary tree
 - quad tree
 
-- binary searc h tree
+- binary search tree (sorted version)
 - splay tree
 - red black tree
 - heap 
