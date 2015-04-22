@@ -24,4 +24,11 @@ tree - node (only gets data)
   - add(value)
   - remove(value)
   
+Balanced tree - all subtrees heights differ by no more than 1, and all subtrees are balanced
 
+TreeNode<T>
+BTree<T>
+  add(T data) // wrapper for recursive method
+  add(TreeNode<T? branch, T data) // O(logn) choose child randomly
+  
+Transversal - pre order, post order, in order // O(n)
