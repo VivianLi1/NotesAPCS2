@@ -17,3 +17,7 @@ o   o   o   o
 
 geetMax = O(1)
 add/remove root = O(logn)
+
+whhen adding
+1. put value in the next open spot
+2. push up the values //O(logn)
