@@ -1,3 +1,19 @@
 heap(max)
 - children are always less than the parent
 - always full***
+
+not full
+  o
+    o
+
+full
+  o
+o
+
+full and perfect
+      o
+  o       o
+o   o   o   o
+
+geetMax = O(1)
+add/remove root = O(logn)
