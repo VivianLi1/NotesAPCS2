@@ -21,3 +21,9 @@ add/remove root = O(logn)
 whhen adding
 1. put value in the next open spot
 2. push up the values //O(logn)
+
+min heap - smallest on top
+
+when removing 
+1.swap the lower right node into the root
+2.push it down
