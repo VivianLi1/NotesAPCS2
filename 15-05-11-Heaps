@@ -25,5 +25,11 @@ whhen adding
 min heap - smallest on top
 
 when removing 
-1.swap the lower right node into the root
-2.push it down
+1. swap the lower right node into the root
+2. push it down
+
+using arrays
+2*i = left child
+2*i+1 = right child
+i/2 = parent index
+counter of elements at first index
